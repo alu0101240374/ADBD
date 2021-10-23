@@ -8,11 +8,9 @@
 
 ![foto4](./fotos/4-fixed.PNG)
 
-![foto7](./fotos/7.PNG)
-
-![foto5](./fotos/5.PNG)
-
 ![foto6](./fotos/6.PNG)
+
+![foto7](./fotos/7.PNG)
 
 ![foto8](./fotos/8.PNG)
 
