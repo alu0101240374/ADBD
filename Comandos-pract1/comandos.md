@@ -6,7 +6,7 @@
 
 ![foto3](./fotos/3.PNG)
 
-![foto4](./fotos/4.PNG)
+![foto4](./fotos/4-fixed.PNG)
 
 ![foto7](./fotos/7.PNG)
 
